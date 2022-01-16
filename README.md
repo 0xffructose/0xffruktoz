@@ -1,5 +1,8 @@
 ## Who am I?
 
+Hi there, I'm 0xffruktoz. I'm an intermediate level programmer and I generally code unofficial tools for Unity Game Engine.
+Also I'm interested about artificial intelligences that means I'm trying to learn more knowledges about neural networks.
+
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=0xffruktoz&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xffruktoz&theme=blueberry_duo"/>
