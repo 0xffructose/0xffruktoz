@@ -31,9 +31,8 @@ Also I'm interested about artificial intelligences that means I'm trying to lear
 
 <p align="center">
   <a href="https://github.com/0xffruktoz"><img alt="Github" title="0xffruktoz Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://instagram.com/f._fructose"><img alt="Instagram" title="0xffructose Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ 
  </p>
  <p align="center">
   <a href="mailto:fthertugral55@gmail.com"><img alt="Gmail" title="0xffruktoz Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="http://twitter.com/FFruktoz"><img alt="Twitter" title="0xffruktoz Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
